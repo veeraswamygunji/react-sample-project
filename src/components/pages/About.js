@@ -12,7 +12,7 @@ class About extends Component {
                                 <h5>About Us</h5>
                             </div>
                             <div className="col-md-8 my-auto">
-                                <h5 className="float-end">Home / About Us</h5>
+                                <h5 className="float-end">Home / About</h5>
                             </div>
                         </div>
                     </div>
